@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there! 👋
+
+Hello! This GitHub repo is my own personal experimental space.
 
 <!--
 **rayvellest/rayvellest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
